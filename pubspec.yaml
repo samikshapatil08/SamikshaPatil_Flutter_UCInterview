@@ -66,6 +66,7 @@ flutter:
     - assets/globe2.png
     - assets/globe3.png
     - assets/image.png
+    - assets/letterboxdbackground.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
